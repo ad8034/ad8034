@@ -53,4 +53,4 @@
 ---
 
 ## 🌍 Portfolio
-🔗 https://akashdeepkumar87.github.io/portfolio
+🔗 Portfolio: https://akashdeepkumar87.github.io/Portfolio/
