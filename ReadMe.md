@@ -1,9 +1,56 @@
-# 💫 About Me:
-🎓 B.Tech Computer Science Engineering student  <br>🧠 I’m currently working on Machine Learning and Explainable AI (SHAP) projects  <br>🤝 I’m looking to collaborate on ML, Data Science, and research-oriented projects  <br>🌱 I’m currently learning advanced machine learning techniques and model interpretability  <br>💬 Ask me about Python, Machine Learning, SHAP, and Streamlit  <br>⚡ Fun fact: I enjoy converting complex data problems into simple, usable solutions<br>
+# Hi, I'm Akash Deep Kumar 👋
+
+🎓 B.Tech Computer Science Engineering student  
+🧠 Working on Machine Learning and Explainable AI (SHAP) projects  
+🤝 Open to collaboration on ML, Data Science, and research-oriented projects  
+🌱 Currently learning advanced machine learning techniques and model interpretability  
+💬 Ask me about Python, Machine Learning, SHAP, and Streamlit  
+⚡ Fun fact: I enjoy converting complex data problems into simple, usable solutions  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdeepkumar87)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad046785@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdeepkumar87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ad046785@gmail.com) 
+---
+## 📌 Featured Projects
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+### 🩺 Lymphography Disease Prediction (Explainable AI)
+- Built and evaluated ML models for disease classification  
+- Applied SHAP to explain predictions and feature importance  
+- Focused on transparency in medical decision-making  
+
+🔗 Repository: https://github.com/ad8034/Lymphography-XAI-Project  
+
+---
+
+### 🩸 Daily Sugar Guidance Web Application
+- Streamlit-based web app for daily diet and walking guidance  
+- Designed for easy accessibility and safe input handling  
+
+🔗 Live App: https://trackdiabities.streamlit.app  
+
+---
+
+## 🌍 Portfolio
+🔗 https://ad8034.github.io/portfolio
