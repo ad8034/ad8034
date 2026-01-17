@@ -40,7 +40,7 @@
 - Applied SHAP to explain predictions and feature importance  
 - Focused on transparency in medical decision-making  
 
-🔗 Repository: https://github.com/ad8034/Lymphography-XAI-Project  
+🔗 Repository: https://github.com/akashdeepkumar87/Lymphography-XAI-Project  
 
 ---
 
@@ -53,4 +53,4 @@
 ---
 
 ## 🌍 Portfolio
-🔗 https://ad8034.github.io/portfolio
+🔗 https://akashdeepkumar87.github.io/portfolio
