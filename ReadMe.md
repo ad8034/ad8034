@@ -1,5 +1,7 @@
 # Hi, I'm Akash Deep Kumar 👋
 
+🌐 **Portfolio:** https://akashdeepkumar.me  
+
 🎓 B.Tech Computer Science Engineering student  
 🧠 Working on Machine Learning and Explainable AI (SHAP) projects  
 🤝 Open to collaboration on ML, Data Science, and research-oriented projects  
@@ -10,6 +12,7 @@
 ---
 
 ## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://akashdeepkumar.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdeepkumar87)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad046785@gmail.com)
 
@@ -31,8 +34,8 @@
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
 
-
 ---
+
 ## 📌 Featured Projects
 
 ### 🩺 Lymphography Disease Prediction (Explainable AI)
@@ -48,9 +51,23 @@
 - Streamlit-based web app for daily diet and walking guidance  
 - Designed for easy accessibility and safe input handling  
 
-🔗 Live App: https://daily-sugar-guidance.streamlit.app
-
+🔗 Live App: https://daily-sugar-guidance.streamlit.app  
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akashdeepkumar87&theme=dark&hide_border=false" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashdeepkumar87&theme=github-compact&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/akashdeepkumar87">
+    <img src="https://komarev.com/ghpvc/?username=akashdeepkumar87&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
